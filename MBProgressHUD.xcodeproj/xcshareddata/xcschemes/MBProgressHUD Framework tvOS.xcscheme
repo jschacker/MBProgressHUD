@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D27F18401D3B5878009D7482"
-               BuildableName = "HudDemoTV.app"
-               BlueprintName = "HudDemoTV"
-               ReferencedContainer = "container:HudDemo.xcodeproj">
+               BlueprintIdentifier = "1777D3DE1D757AF50037C7F1"
+               BuildableName = "MBProgressHUD.framework"
+               BlueprintName = "MBProgressHUD Framework tvOS"
+               ReferencedContainer = "container:MBProgressHUD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,15 +27,6 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D27F18401D3B5878009D7482"
-            BuildableName = "HudDemoTV.app"
-            BlueprintName = "HudDemoTV"
-            ReferencedContainer = "container:HudDemo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <Testables>
       </Testables>
    </TestAction>
@@ -49,16 +40,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D27F18401D3B5878009D7482"
-            BuildableName = "HudDemoTV.app"
-            BlueprintName = "HudDemoTV"
-            ReferencedContainer = "container:HudDemo.xcodeproj">
+            BlueprintIdentifier = "1777D3DE1D757AF50037C7F1"
+            BuildableName = "MBProgressHUD.framework"
+            BlueprintName = "MBProgressHUD Framework tvOS"
+            ReferencedContainer = "container:MBProgressHUD.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -66,16 +56,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D27F18401D3B5878009D7482"
-            BuildableName = "HudDemoTV.app"
-            BlueprintName = "HudDemoTV"
-            ReferencedContainer = "container:HudDemo.xcodeproj">
+            BlueprintIdentifier = "1777D3DE1D757AF50037C7F1"
+            BuildableName = "MBProgressHUD.framework"
+            BlueprintName = "MBProgressHUD Framework tvOS"
+            ReferencedContainer = "container:MBProgressHUD.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
